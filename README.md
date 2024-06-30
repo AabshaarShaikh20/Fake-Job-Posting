@@ -10,6 +10,10 @@
 - This project aims to solve this problem by identifying wheather it is Fake or Not..
 
 
+
+### For Dataset : download it from the fake_job_postings.zip file
+https://github.com/AabshaarShaikh20/Fake-Job-Posting/blob/main/fake_job_postings.zip
+
 #### Author - Aabshaar Shaikh
 #### Email  - aabshaarshaikh@gmail.com 
 
